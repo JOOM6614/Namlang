@@ -1,0 +1,9 @@
+# Meu primeiro programa em NamLang
+projeto = namput("Nome do projeto:")
+nam("Iniciando " + projeto)
+
+nif 10 > 5:
+    namresolution "1080x1080":
+        namarredont.square "1080"
+namelse:
+    nam("Erro no sistema")
